@@ -9,6 +9,7 @@
 #include "chatbot.h"
 
 // constructor WITHOUT memory allocation
+//force git change status
 ChatBot::ChatBot()
 {
     // invalidate data handles

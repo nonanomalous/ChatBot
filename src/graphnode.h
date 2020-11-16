@@ -15,7 +15,7 @@ class GraphNode
 private:
     //// STUDENT CODE
     ////
-
+    //force git change status
     // data handles (owned)
     std::vector<std::unique_ptr<GraphEdge>> _childEdges;  // edges to subsequent nodes
 

@@ -15,6 +15,7 @@
 ChatLogic::ChatLogic() {}
 
 ChatLogic::~ChatLogic() {}
+//force git change status
 
 template <typename T>
 void ChatLogic::AddAllTokensToElement(std::string tokenID, tokenlist &tokens, T &element)
